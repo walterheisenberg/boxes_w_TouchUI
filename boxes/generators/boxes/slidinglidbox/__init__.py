@@ -14,6 +14,7 @@ class SlidingLidBox(Boxes):
 """
 
     ui_group = "Box"
+    shop = ["archichouette"]
     tags = []
 
     def __init__(self) -> None:
