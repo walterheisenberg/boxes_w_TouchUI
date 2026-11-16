@@ -63,7 +63,7 @@ class CardBox(Boxes):
     """Box for storage of playing cards, with versatile options"""
     ui_group = "Box"
     shop = ["archichouette"]
-    tags = []
+    tags = ["card"]
 
     description = """
 ### Description
